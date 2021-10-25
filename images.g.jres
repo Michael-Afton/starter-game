@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAACICAAAAAAAgAgAAAAAA8P8PAAAAAABvxv8PAAAAAG/2/w8AAAAAb8b/DwAAAABv9v8PAAAAAP/P/w8AAAAA////DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "IMPOSTOR"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKCqqqoAAAAAoKqqqgAAAACgqqqqAAAAAKCqqqoAAAAAoKaqqgAAAACgqqqqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "CREWMATE"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
